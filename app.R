@@ -1,7 +1,5 @@
 #Weshalb p-values kritisch betrachtet werden sollten...
-library(ggplot2)
-library(shiny)
-library(dplyr)
+library(tidyverse)
 library(shinydashboard)
 library(gridExtra)
 library(shinyWidgets)
