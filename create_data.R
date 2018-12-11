@@ -71,3 +71,6 @@ aov_nodiff_data$diff <- 'no'
 
 test_data <- rbind(t_nodiff_data,t_diff_data,aov_nodiff_data,aov_diff_data)
 write.csv(test_data, file = 'data/test_data.csv')
+
+
+#Hier entsteht eine neue Zeile
